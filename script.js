@@ -1,7 +1,7 @@
 const image = document.getElementById("switchImage");
 
-const firstImage = "images/image1.jpg";
-const secondImage = "images/image2.jpg";
+const firstImage = "images/image1.png";
+const secondImage = "images/image2.png";
 
 let showingFirstImage = true;
 
